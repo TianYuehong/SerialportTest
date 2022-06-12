@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SerialportTest</string>
+    <string name="open">Open</string>
+    <string name="showdevices">ShowDevices</string>
+    <string name="sendmessage">SendMessage</string>
+    <string name="textview">TextView</string>
 </resources>
